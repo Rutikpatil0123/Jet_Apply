@@ -29,8 +29,6 @@ fun JobNavigation(){
             backStackEntry.arguments?.getString("company"))
         }
 
-        composable(CompanyScreens.ApplyScreen.name){
 
-        }
     }
 }
