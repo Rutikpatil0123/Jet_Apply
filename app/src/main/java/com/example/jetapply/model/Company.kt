@@ -163,10 +163,10 @@ fun getCompany() : List<Company> {
             nameOfCEO = "Elon Musk",
             companyFounder = "Elon Musk, Martin Eberhard, Marc Tarpenning, JB Straubel, Ian Wright",
             year = "2003",
-            about = "Tesla designs and manufactures electric vehicles, as well as energy storage systems, solar panels, and related products. The company also provides maintenance and repair services.",
+            about = "Tesla designs and manufactures electric vehicles, as well as energy storage systems, sfr panels, and related products. The company also provides maintenance and repair services.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tesla_Motors.svg/109px-Tesla_Motors.svg.png",
             careerPageLink = "https://www.tesla.com/careers/search#/",
-            companyDomain = "https://www.tesla.com/",
+            companyDomain = "Electric vehicles",
             companyProducts = "Electric vehicles, Energy storage systems, Solar panels",
             companyImages = listOf(
                 "https://www.google.com/search?q=tesla+images&rlz=1C5CHFA_enUS895US895&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi_3JfE7O3xAhURyDgGHUzOByQQ_AUIBigB&biw=1366&bih=657#imgrc=",
@@ -181,8 +181,8 @@ fun getCompany() : List<Company> {
             year = "1998",
             about = "Tencent is a Chinese multinational conglomerate holding company that provides various Internet-related services and products. The company's businesses include social media, entertainment, gaming, and online payments.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Tencent_Logo.svg/220px-Tencent_Logo.svg.png",
-            careerPageLink = "https://careers.tencent.com/",
-            companyDomain = "https://www.tencent.com/en-us/index.html",
+            careerPageLink = "https://careers.tencent.com/en-us/home.html",
+            companyDomain = "Entertainment",
             companyProducts = "Social media, Entertainment, Gaming, Online payments",
             companyImages = listOf(
                 "https://www.google.com/search?q=tencent&rlz=1C5CHFA_enUS895US895&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiW6JG17O3xAhXCElgKHXK9B_sQ_AUIBygC&biw=1366&bih=657#imgrc=",
@@ -197,8 +197,8 @@ fun getCompany() : List<Company> {
             year = "1999",
             about = "Alibaba is a Chinese multinational conglomerate holding company that specializes in e-commerce, retail, Internet, and technology. The company also provides services like online payments, shopping search engines, and data-centric cloud computing services.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Alibaba-Group-Logo.svg/220px-Alibaba-Group-Logo.svg.png",
-            careerPageLink = "https://job.alibaba.com/",
-            companyDomain = "https://www.alibaba.com/",
+            careerPageLink = "https://talent.alibaba.com/?lang=zh",
+            companyDomain = "E-commerce",
             companyProducts = "E-commerce, Retail, Internet, Technology",
             companyImages = listOf(
                 "https://www.google.com/search?q=alibaba&rlz=1C5CHFA_enUS895"
@@ -212,7 +212,7 @@ fun getCompany() : List<Company> {
             about = "Mastercard is a multinational financial services corporation that operates the world's fastest payments processing network, connecting consumers, financial institutions, merchants, governments, and businesses in more than 210 countries and territories. The company's products and solutions empower businesses and consumers to make transactions securely and seamlessly. Mastercard is committed to innovation and driving economic growth, providing its customers with the technology necessary to thrive in today's rapidly-evolving digital economy.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Mastercard_2019_logo.svg/200px-Mastercard_2019_logo.svg.png",
             careerPageLink = "https://www.mastercard.us/en-us/about-mastercard/careers.html",
-            companyDomain = "https://www.mastercard.us/",
+            companyDomain = "FinTech",
             companyProducts = "Credit cards, debit cards, prepaid cards, payment processing solutions, data and analytics services",
             companyImages = listOf(
                 "https://www.mastercard.us/content/dam/mccom/global/about-mastercard/careers-masthead-580x128.jpg.image.1440.full.jpg, https://www.mastercard.us/content/dam/mccom/global/about-mastercard/mastercard-mobile-1020-510.jpg.image.1440.full.jpg"
@@ -227,7 +227,7 @@ fun getCompany() : List<Company> {
             about = "Intel Corporation is a multinational technology company that is best known for designing and manufacturing microprocessors, integrated circuits, and other computer hardware. Intel's processors are used in a variety of devices, including personal computers, data centers, and the Internet of Things. The company is committed to driving innovation in the tech industry and investing in the development of cutting-edge technologies that will shape the future of computing.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Intel_logo_2023.svg/200px-Intel_logo_2023.svg.png",
             careerPageLink = "https://jobs.intel.com/",
-            companyDomain = "https://www.intel.com/",
+            companyDomain = "computer hardware",
             companyProducts = "Processors, microprocessors, computer hardware, data center solutions, Internet of Things technology, artificial intelligence",
             companyImages = listOf("https://www.intel.ca/content/dam/www/public/us/en/2021-q2-investment/hero/Intel-Q2-investors-hero-new.png, https://www.intel.com/content/dam/www/public/us/en/images/overview/social-media.jpg"
             )
@@ -241,7 +241,7 @@ fun getCompany() : List<Company> {
             about = "Visa Inc. is a global financial services company that operates the world’s largest retail electronic payments network. Visa provides secure and convenient payment options for consumers, merchants, and businesses around the world. The company is dedicated to advancing the financial health of individuals and businesses, promoting financial inclusion, and leveraging its network and products to support economic growth and development.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Visa_2021.svg/220px-Visa_2021.svg.png",
             careerPageLink = "https://usa.visa.com/careers.html",
-            companyDomain = "https://usa.visa.com/",
+            companyDomain = "Fintech",
             companyProducts = "Credit cards, debit cards, prepaid cards, payment processing solutions, data analytics services",
             companyImages = listOf("https://usa.visa.com/dam/VCOM/regional/ap/images/common/homepage/hero-elite-athlete-tokyo-hub.jpg.zoom.768.jpg, https://usa.vis"
             )
@@ -256,7 +256,7 @@ fun getCompany() : List<Company> {
             companyLogo = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Salesforce.com_logo.svg/220px-Salesforce.com_logo.svg.png",
             careerPageLink = "https://www.salesforce.com/company/careers/",
             companyDomain = "https://www.salesforce.com/",
-            companyProducts = "Salesforce Customer 360, Marketing Cloud, Commerce Cloud, Service Cloud",
+            companyProducts = "Salesforce Customer 360, Marketing, Cloud, Commerce Cloud, Service Cloud",
             companyImages = listOf(
                 "https://www.salesforce.com/content/dam/blogs/ca/Blog%20Posts/salesforce-logo-1.jpg",
                 "https://www.salesforce.com/content/dam/web/en_us/www/images/marketing-cloud/content-blocks/email-marketing.svg",
@@ -300,7 +300,7 @@ fun getCompany() : List<Company> {
             year = "1981",
             about = "Taiwan Semiconductor Manufacturing Company Limited is a Taiwanese multinational semiconductor contract manufacturing and design company. It is the world’s largest dedicated independent semiconductor foundry.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Tsmc.svg/200px-Tsmc.svg.png",
-            careerPageLink = "https://jobs.tsmc.com/",
+            careerPageLink = "https://www.tsmc.com/static/english/careers/index.htm",
             companyDomain = "https://www.tsmc.com",
             companyProducts = "Semiconductor design",
             companyImages = listOf()
@@ -373,7 +373,7 @@ fun getCompany() : List<Company> {
             year = "1989",
             about = "Accenture is a multinational professional services company that provides consulting, technology, and outsourcing services. The company is headquartered in Dublin, Ireland, and has more than 537,000 employees serving clients in over 120 countries. Accenture is one of the largest consulting firms in the world, offering services in strategy, consulting, digital, technology, and operations.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Accenture.svg/220px-Accenture.svg.png",
-            careerPageLink = "https://www.accenture.com/us-en/careers-overview",
+            careerPageLink = "https://www.accenture.com/us-en/careers/jobsearch?jk=&sb=1&vw=0&is_rj=0&pg=1",
             companyDomain = "https://www.accenture.com/",
             companyProducts = "Consulting, Technology, Digital, Strategy, Operations",
             companyImages = listOf(
@@ -676,7 +676,7 @@ fun getCompany() : List<Company> {
             year = "1997",
             about = "Alteryx is a data science and analytics company that offers a platform for data preparation, blending, and analysis. The company's products allow organizations to connect and analyze data from various sources, as well as create workflows and predictive models for business decisions.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Alteryx_logo.svg/220px-Alteryx_logo.svg.png",
-            careerPageLink = "https://www.alteryx.com/company/careers",
+            careerPageLink = "https://www.alteryx.com/about-us/careers",
             companyDomain = "https://www.alteryx.com/",
             companyProducts = "Alteryx Designer, Alteryx Server",
             companyImages = listOf(
@@ -707,7 +707,7 @@ fun getCompany() : List<Company> {
             year = "2008",
             about = "Activision Blizzard, Inc. is an American video game holding company based in Santa Monica, California. The company was formed in 2008 by the merger of Activision with Vivendi Games under the leadership of President and CEO Bobby Kotick.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Activision.svg/220px-Activision.svg.png",
-            careerPageLink = "https://www.activisionblizzard.com/careers/",
+            careerPageLink = "https://careers.activisionblizzard.com/",
             companyDomain = "https://www.activisionblizzard.com/",
             companyProducts = "Video games, including popular franchises such as Call of Duty, Warcraft, Diablo, and Overwatch.",
             companyImages = listOf(
@@ -753,7 +753,7 @@ fun getCompany() : List<Company> {
             year = "2003",
             about = "DocuSign is a San Francisco-based company that provides electronic signature technology and digital transaction management services for facilitating electronic exchanges of contracts and signed documents.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/DocuSign_Logo.svg/220px-DocuSign_Logo.svg.png",
-            careerPageLink = "https://www.docusign.com/company/careers",
+            careerPageLink = "https://careers.docusign.com/",
             companyDomain = "https://www.docusign.com/",
             companyProducts = "Electronic signature solutions",
             companyImages = listOf(
@@ -771,7 +771,7 @@ fun getCompany() : List<Company> {
             year = "2005",
             about = "Workday is an American on-demand financial management and human capital management software vendor.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Workday_logo.svg/220px-Workday_logo.svg.png",
-            careerPageLink = "https://www.workday.com/en-us/company/careers.html",
+            careerPageLink = "https://www.workday.com/en-us/company/careers/overview.html",
             companyDomain = "https://www.workday.com/",
             companyProducts = "HR management, Financial management, Analytics and Reporting",
             companyImages = listOf(
@@ -787,7 +787,7 @@ fun getCompany() : List<Company> {
             year = "1998",
             about = "JD.com, Inc. is a Chinese e-commerce company that provides online retail, logistics, and technology services to consumers, businesses, and other e-commerce platforms.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/JD.com_logo.png/150px-JD.com_logo.png",
-            careerPageLink = "https://www.jd.com/zhaopin/",
+            careerPageLink = "https://corporate.jd.com/careers",
             companyDomain = "https://www.jd.com/",
             companyProducts = "Retail services",
             companyImages = listOf(
@@ -860,7 +860,7 @@ fun getCompany() : List<Company> {
             year = "1999",
             about = "RingCentral is an American provider of cloud-based communication systems. It offers messaging, video conferencing, phone, and contact center solutions. The company's products are used by businesses of all sizes to improve communication and collaboration.",
             companyLogo = "https://www.ringcentral.com/favicon.ico",
-            careerPageLink = "https://www.ringcentral.com/careers.html",
+            careerPageLink = "https://www.ringcentral.com/company/careers/overview.html",
             companyDomain = "ringcentral.com",
             companyProducts = "Cloud-based communication systems",
             companyImages = listOf(
@@ -874,7 +874,7 @@ fun getCompany() : List<Company> {
             year = "2008",
             about = "Twilio is a cloud communication platform that enables businesses to communicate with customers via SMS, voice, video, and chat. It offers a range of solutions, including messaging, voice and video, authentication, and more.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Twilio-logo-red.svg/220px-Twilio-logo-red.svg.png",
-            careerPageLink = "https://www.twilio.com/company/careers",
+            careerPageLink = "https://www.twilio.com/en-us/company/jobs",
             companyDomain = "twilio.com",
             companyProducts = "Twilio Flex, Twilio SendGrid, Twilio API, Twilio Studio, and more.",
             companyImages = listOf(
@@ -1034,7 +1034,7 @@ fun getCompany() : List<Company> {
             year = "2006",
             about = "Coupa Software is a global technology platform for Business Spend Management (BSM).",
             companyLogo = "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Coupa_logo.svg/220px-Coupa_logo.svg.png",
-            careerPageLink = "https://www.coupa.com/about/careers",
+            careerPageLink = "https://careers.coupa.com/global/en/home",
             companyDomain = "coupa.com",
             companyProducts = "Coupa Procure, Coupa Expenses, Coupa Contracts, Coupa Invoicing, Coupa Sourcing, Coupa Analytics, Coupa Supplier Management, Coupa Inventory, Coupa Travel & Expense Management, Coupa Treasury Management, Coupa Payments",
             companyImages = listOf(
@@ -1095,7 +1095,7 @@ fun getCompany() : List<Company> {
             about = "Intuit is a financial software company that develops and sells financial, accounting, and tax preparation software for individuals and businesses. The company's flagship products include QuickBooks, TurboTax, and Mint. Intuit's mission is to power prosperity around the world, and it is dedicated to helping its customers succeed through innovation and technology.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Intuit_logo_2022.svg/220px-Intuit_logo_2022.svg.png",
             careerPageLink = "https://www.intuit.com/careers/",
-            companyDomain = "intuit.com",
+            companyDomain = "Enterprise software",
             companyProducts = "QuickBooks, TurboTax, Mint, QuickBooks Self-Employed, QuickBooks Online, and more",
             companyImages = listOf(
                 "https://www.intuit.com/content/dam/intuit/intuitcom/about-us/assets/branding/Intuit_Logo_Primary_Blue_RGB.png",
@@ -1114,7 +1114,7 @@ fun getCompany() : List<Company> {
             about = "Palo Alto Networks is a multinational cybersecurity company based in Santa Clara, California. The company provides advanced firewall protection, cloud security, and other cybersecurity products and services to help organizations protect their networks and data from cyber threats. Palo Alto Networks has been recognized as a leader in the Gartner Magic Quadrant for Network Firewalls and has won numerous awards for its innovative cybersecurity solutions.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/PaloAltoNetworks_2020_Logo.svg/220px-PaloAltoNetworks_2020_Logo.svg.png",
             careerPageLink = "https://www.paloaltonetworks.com/company/careers",
-            companyDomain = "paloaltonetworks.com",
+            companyDomain = "Tech",
             companyProducts = "Palo Alto Networks offers a range of cybersecurity products and services, including next-generation firewalls, cloud security, endpoint protection, and threat intelligence solutions.",
             companyImages = listOf("")
         ),
@@ -1126,8 +1126,8 @@ fun getCompany() : List<Company> {
             year = "1981",
             about = "Logitech is a Swiss manufacturer of computer peripherals and software, including mice, keyboards, webcams, speakers, and more. The company was founded in Switzerland in 1981 and has since become a leading producer of computer accessories, with products sold in over 100 countries around the world.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logitech_logo.svg/220px-Logitech_logo.svg.png",
-            careerPageLink = "https://www.logitech.com/en-us/careers.html",
-            companyDomain = "logitech.com",
+            careerPageLink = "https://jobs.jobvite.com/logitech/",
+            companyDomain = "Electronics, Technology",
             companyProducts = "Computer peripherals, software",
             companyImages = listOf(
                 "https://www.logitech.com/assets/65521/26/hero-desktop.png",
@@ -1145,7 +1145,7 @@ fun getCompany() : List<Company> {
             about = "Roku, Inc. is a streaming TV and media player company based in California, USA. The company was founded in 2002 by Anthony Wood and is best known for its range of streaming devices, which enable customers to access a wide variety of internet-based content on their TVs. Roku also offers a platform for content providers to distribute their content to Roku users. The company has partnerships with numerous media companies and offers over 500,000 movies and TV shows to its customers.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Roku_logo.svg/220px-Roku_logo.svg.png",
             careerPageLink = "https://www.roku.com/about/jobs",
-            companyDomain = "roku.com",
+            companyDomain = "Digital media player",
             companyProducts = "Roku streaming devices, Roku TVs, Roku OS, Roku Channel",
             companyImages = listOf(
                 "https://images.unsplash.com/photo-1520055177081-ecc197c2cd19?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzZ8fHJva3UlMjBmaWdodG5lc3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
@@ -1161,7 +1161,7 @@ fun getCompany() : List<Company> {
             about = "JPMorgan Chase & Co. is a multinational investment bank and financial services company. It offers a range of financial services across investment banking, commercial banking, asset management, and private banking. JPMorgan Chase & Co. is one of the largest banks in the United States, with assets of more than $3.7 trillion as of 2021. It operates in more than 100 countries around the world.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/J_P_Morgan_Chase_Logo_2008_1.svg/250px-J_P_Morgan_Chase_Logo_2008_1.svg.png",
             careerPageLink = "https://careers.jpmorgan.com/us/en/home",
-            companyDomain = "jpmorganchase.com",
+            companyDomain = "Investment banking",
             companyProducts = "Investment banking, commercial banking, asset management, private banking, credit cards, mortgage, and more",
             companyImages = listOf("https://www.jpmorganchase.com/content/dam/shared/aboutus/our-businesses/businesses-hero-desktop.jpg", "https://www.jpmorganchase.com/content/dam/shared/aboutus/our-businesses/investment-banking-hero-desktop.jpg", "https://www.jpmorganchase.com/content/dam/shared/aboutus/our-businesses/consumer-banking-hero-desktop.jpg")
         ),
@@ -1175,7 +1175,7 @@ fun getCompany() : List<Company> {
             about = "Goldman Sachs is a leading global investment banking, securities and investment management firm that provides a wide range of financial services to a substantial and diversified client base that includes corporations, financial institutions, governments, and high-net-worth individuals.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Goldman_Sachs.svg/125px-Goldman_Sachs.svg.png",
             careerPageLink = "https://www.goldmansachs.com/careers/",
-            companyDomain = "https://www.goldmansachs.com/",
+            companyDomain = "Investment banking",
             companyProducts = "Investment banking, securities, investment management",
             companyImages = listOf(
                 "https://www.goldmansachs.com/images/share/gs-storytelling-top.jpg",
@@ -1193,7 +1193,7 @@ fun getCompany() : List<Company> {
             about = "Tata Consultancy Services (TCS) is a multinational information technology (IT) services, business solutions, and consulting company headquartered in Mumbai, India. It is a subsidiary of the Tata Group and operates in 149 locations across 46 countries. TCS is one of the largest Indian companies by market capitalization and the second-largest Indian company by revenue, after Reliance Industries. It is also the largest IT services company in India by revenue.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Tata_Consultancy_Services_Logo.svg/250px-Tata_Consultancy_Services_Logo.svg.png",
             careerPageLink = "https://www.tcs.com/careers",
-            companyDomain = "https://www.tcs.com/",
+            companyDomain = "Information Technology",
             companyProducts = "TCS offers a range of IT services, business solutions, and consulting services to clients across various industries. Its services include application development and maintenance, infrastructure management, engineering and R&D services, enterprise solutions, business process outsourcing, digital learning, and many others.",
             companyImages = listOf("https://www.tcs.com/content/dam/tcs/images/offerings/enterprise-solutions/enterprise-platforms/tcs-ion-university.jpg","https://www.tcs.com/content/dam/tcs/images/offerings/business-process-services/enterprise-platforms/iris.jpg","https://www.tcs.com/content/dam/tcs/images/tcs-home/tcs-automation-2020.jpg","https://www.tcs.com/content/dam/tcs/images/offerings/application-services/microservices.jpg")
         ),
@@ -1220,7 +1220,7 @@ fun getCompany() : List<Company> {
             about = "Dassault Systèmes SE is a French software company that specializes in 3D design, simulation, and project management software. Its products are used in a wide range of industries, including aerospace, automotive, consumer goods, defense, energy, life sciences, manufacturing, and construction.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Dassault_Syst%C3%A8mes_logo.svg/220px-Dassault_Syst%C3%A8mes_logo.svg.png",
             careerPageLink = "https://www.3ds.com/careers/",
-            companyDomain = "https://www.3ds.com/",
+            companyDomain = "3DExperience Platform",
             companyProducts = "3DExperience Platform, CATIA, SOLIDWORKS, SIMULIA, DELMIA, ENOVIA, GEOVIA, EXALEAD",
             companyImages = listOf(
                 "https://www.3ds.com/fileadmin/_processed_/2/a/csm_Ferrari_Dassault_Systemes_Case_Study_Cover_9e142ca74f.jpg",
@@ -1239,7 +1239,7 @@ fun getCompany() : List<Company> {
             about = "PhonePe is an Indian digital payments platform. It allows users to transfer money, pay bills, and recharge mobile and DTH connections. It was acquired by Flipkart, an Indian e-commerce company, in 2016. PhonePe operates independently as a subsidiary of Flipkart. The company has its headquarters in Bangalore, India.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/PhonePe_Logo.svg/1920px-PhonePe_Logo.svg.png",
             careerPageLink = "https://www.phonepe.com/careers",
-            companyDomain = "https://www.phonepe.com/",
+            companyDomain = "FinTech",
             companyProducts = "Digital payments platform",
             companyImages = listOf(
                 "https://www.phonepe.com/images/home/brandBanners/flipkart.jpg",
@@ -1255,8 +1255,8 @@ fun getCompany() : List<Company> {
             year = "2018",
             about = "BharatPe is a fintech startup that provides digital payment solutions for merchants in India. The company offers a range of services, including QR code-based payments, credit and debit card payments, and UPI payments, to help merchants accept payments from customers. BharatPe also provides a range of financial services, such as loans and insurance, to help small businesses grow.",
             companyLogo = "https://www.odishaage.com/wp-content/uploads/2020/05/BharatPe-Logo.jpg",
-            careerPageLink = "https://www.bharatpe.com/careers/",
-            companyDomain = "https://www.bharatpe.com/",
+            careerPageLink = "https://bharatpe.com/career",
+            companyDomain = "FinTech",
             companyProducts = "QR code-based payments, credit and debit card payments, UPI payments, loans, insurance",
             companyImages = listOf("https://www.bharatpe.com/wp-content/uploads/2019/09/BharatPe_Blog_New_Header_2.jpg", "https://www.bharatpe.com/wp-content/uploads/2019/09/BharatPe_Blog_New_Header_4.jpg")
         ),
@@ -1269,7 +1269,7 @@ fun getCompany() : List<Company> {
             about = "Lenovo is a multinational technology company based in Beijing, China. It designs, develops, manufactures, and sells personal computers, tablets, smartphones, workstations, servers, electronic storage devices, and IT management software. Lenovo is currently the world's largest personal computer vendor by unit sales. The company has a global workforce of over 60,000 employees and operates in more than 60 countries.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Lenovo_%282015%29.svg/220px-Lenovo_%282015%29.svg.png",
             careerPageLink = "https://www.lenovocareers.com/",
-            companyDomain = "lenovo.com",
+            companyDomain = "Computer hardware, Electronics",
             companyProducts = "Personal computers, tablets, smartphones, workstations, servers, electronic storage devices, and IT management software.",
             companyImages = listOf("https://www.lenovo.com/medias/lenovo-logo.png", "https://www.lenovo.com/medias/ThinkPad-T14-AMD-1.jpg")
 
@@ -1284,8 +1284,8 @@ fun getCompany() : List<Company> {
             year = "1989",
             about = "ASUSTeK Computer Inc. (ASUS) is a multinational technology company headquartered in Taiwan that specializes in the design and manufacturing of computer hardware, software, and consumer electronics. ASUS is best known for its computer hardware products, including desktop computers, laptops, and computer components such as motherboards, graphics cards, and routers. The company also produces smartphones, tablets, and other consumer electronics. ASUS has a global presence with offices in over 30 countries and operates through several subsidiaries, including ASUS Technology Pvt. Ltd. in India and ASUS Computer GmbH in Germany.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ASUS_Logo.svg/220px-ASUS_Logo.svg.png",
-            careerPageLink = "https://www.asus.com/us/site/careers/",
-            companyDomain = "https://www.asus.com/",
+            careerPageLink = "https://www.asus.com/ca-en/ASUS-Employment/search-opportunities/",
+            companyDomain = "Computer hardware, Electronics",
             companyProducts = "Computers, laptops, motherboards, graphics cards, routers, smartphones, tablets, and other consumer electronics.",
             companyImages = listOf("https://www.asus.com/media/global/products/ihnuiea2v7tylrrq/vi/m0adffrv2og4foxx/P_setting_fff_1_90_end_2000.png", "https://www.asus.com/media/global/products/ihnuiea2v7tylrrq/vi/8a0i1kwmcjywjfsd/P_setting_fff_1_90_end_2000.png", "https://www.asus.com/media/global/products/ihnuiea2v7tylrrq/vi/pdq5cboiq2wnwybm/P_setting_fff_1_90_end_2000.png")
         ),
@@ -1297,8 +1297,8 @@ fun getCompany() : List<Company> {
             year = "1986",
             about = "Micro-Star International (MSI) is a Taiwan-based multinational technology company that produces computer hardware, gaming hardware, and consumer electronics. MSI is best known for producing high-performance gaming laptops, desktops, and graphics cards. The company also produces a wide range of computer components and peripherals, including motherboards, monitors, power supplies, gaming peripherals, and servers. MSI has offices and facilities around the world, including in the US, Europe, and Asia.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Micro-Star_International_logo.svg/220px-Micro-Star_International_logo.svg.png",
-            careerPageLink = "https://www.msi.com/about/careers",
-            companyDomain = "msi.com",
+            careerPageLink = "https://www.msiworldwide.com/careers",
+            companyDomain ="Computer hardware, Electronics",
             companyProducts = "Gaming laptops, desktops, graphics cards, motherboards, monitors, power supplies, gaming peripherals, servers, and more.",
             companyImages = listOf("https://www.msi.com/etc/designs/msi/images/logo/msi-header-logo.svg", "https://www.msi.com/etc/designs/msi/images/og/msi_og_1200x630.jpg")
         ),
@@ -1311,7 +1311,7 @@ fun getCompany() : List<Company> {
             about = "Advanced Micro Devices, Inc. (AMD) is an American multinational semiconductor company that designs and manufactures microprocessors, graphics processors, and other computer components. AMD's main products include microprocessors, graphics processors, chipsets, and embedded processors for servers, workstations, personal computers, and embedded system applications. AMD is one of the largest suppliers of microprocessors in the world, competing with Intel in the PC and server markets.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/AMD_Logo.svg/200px-AMD_Logo.svg.png",
             careerPageLink = "https://www.amd.com/en/corporate/careers",
-            companyDomain = "https://www.amd.com/",
+            companyDomain = "Semiconductors, Artificial intelligence, GPUs, Graphics cards, Consumer electronics, Video games, Computer hardware",
             companyProducts = "Microprocessors, Graphics processors, Chipsets, Embedded processors",
             companyImages = listOf("https://www.amd.com/system/files/2021-04/234332-amd-logo-reverse-black-rgb.png", "https://www.amd.com/system/files/styles/992px/private/2020-03/478233-amd-3950x-1260x709_0.png?itok=_Y7PIl0n")
         ),
@@ -1323,8 +1323,8 @@ fun getCompany() : List<Company> {
             year = "1939",
             about = "HP Inc. is a technology company that produces personal computers, printers, and related products. It was founded in 1939 by Bill Hewlett and Dave Packard and is headquartered in Palo Alto, California. HP operates in over 170 countries, has approximately 56,000 employees, and had a revenue of $58.8 billion in 2020.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HP_logo_2012.svg/120px-HP_logo_2012.svg.png",
-            careerPageLink = "https://www.hp.com/us-en/about/jobs/index.html",
-            companyDomain = "https://www.hp.com/",
+            careerPageLink = "https://jobs.hp.com/",
+            companyDomain = "Computer hardware, Electronics",
             companyProducts = "Personal computers, printers, and related products",
             companyImages = listOf("https://www.hp.com/etc/designs/hp2/images/hero/hero_image_1.jpg", "https://www.hp.com/etc/designs/hp2/images/hero/hero_image_2.jpg", "https://www.hp.com/etc/designs/hp2/images/hero/hero_image_3.jpg")
         ),
@@ -1336,8 +1336,8 @@ fun getCompany() : List<Company> {
             year = "1976",
             about = "Acer is a Taiwanese multinational hardware and electronics corporation that specializes in advanced electronics technology. It manufactures desktop PCs, laptops, tablets, servers, storage devices, virtual reality devices, displays, and peripherals. Acer also sells gaming PCs and accessories under its Predator brand.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Acer_2011.svg/220px-Acer_2011.svg.png",
-            careerPageLink = "https://www.acer-group.com/ag/en/TW/content/careers",
-            companyDomain = "https://www.acer.com/",
+            careerPageLink = "https://pa-careers.acer.com/",
+            companyDomain = "Computer hardware, Electronics",
             companyProducts = "Desktop PCs, laptops, tablets, servers, storage devices, virtual reality devices, displays, peripherals, gaming PCs, and accessories",
             companyImages = listOf("https://www.acer.com/ac/zh/TW/content/home-hero-banner/nitro-5-hero.jpg",
                 "https://www.acer.com/ac/zh/TW/content/home-hero-banner/predator-triton-hero.jpg",
@@ -1348,13 +1348,13 @@ fun getCompany() : List<Company> {
 
         Company(
             companyName = "Harman Kardon",
-            nameOfCEO = "",
+            nameOfCEO = "Michael Mauser",
             companyFounder = "Sidney Harman and Bernard Kardon",
             year = "1953",
             about = "Harman Kardon is a division of Samsung Electronics that produces high-quality audio equipment for home theaters, computers, and automotive applications. The brand is known for its sleek designs and advanced technology, including Bluetooth connectivity and voice control.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Harman_Kardon_logo.svg/220px-Harman_Kardon_logo.svg.png",
-            careerPageLink = "",
-            companyDomain = "",
+            careerPageLink = "https://www.harman.com/career",
+            companyDomain = "Audio systems",
             companyProducts = "Home audio systems, soundbars, headphones, and automotive audio",
             companyImages = listOf()
         ),
@@ -1367,7 +1367,7 @@ fun getCompany() : List<Company> {
             year = "2016",
             about = "boAt is a lifestyle brand that deals in fashionable consumer electronics like earphones, headphones, speakers, travel chargers and premium cables. They have a range of products that cater to various segments like athletes, fitness enthusiasts, and music lovers.",
             companyLogo = "https://media-thumbs.golden.com/6ngJFLSMVelJrPgAyZ-tGUJumuI=/100x100/smart/golden-storage-production.s3.amazonaws.com%2Ftopic_images%2F0737859136d44443b62f4a4640a05d0e.jpeg",
-            careerPageLink = "https://www.boat-lifestyle.com/pages/careers",
+            careerPageLink = "https://www.boat-lifestyle.com/pages/career-opportunity",
             companyDomain = "Consumer electronics",
             companyProducts = "Earphones, Headphones, Speakers, Travel Chargers, Cables",
             companyImages = listOf("https://www.boat-lifestyle.com/assets/images/brandstory.jpg",
@@ -1383,9 +1383,9 @@ fun getCompany() : List<Company> {
             year = "1996",
             about = "Shaadi.com is an online wedding service founded in 1996 by Anupam Mittal. It has its headquarters in Mumbai, India and has branches all over India as well as in Dubai, London, and New York. The platform offers matchmaking services for people looking to get married, and has over 35 million registered users. Shaadi.com is one of the pioneers in the online matrimonial space in India and has been awarded several accolades for its services.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/commons/4/4c/Shaadilogo_%28cropped%29.gif",
-            careerPageLink = "https://www.shaadi.com/careers",
-            companyDomain = "https://www.shaadi.com/",
-            companyProducts = "Online matchmaking services",
+            careerPageLink = "https://careersatshaadi.recruitee.com/",
+            companyDomain = "Online matchmaking services",
+            companyProducts = "Shaadi.com",
             companyImages = listOf("https://www.shaadi.com/static/images/home/connections-banner.jpg",
                 "https://www.shaadi.com/static/images/home/lifestyle-banner.jpg",
                 "https://www.shaadi.com/static/images/home/matches-banner.jpg")
@@ -1401,7 +1401,7 @@ fun getCompany() : List<Company> {
             about = "Capgemini is a global leader in consulting, digital transformation, technology, and engineering services. It operates in more than 50 countries and offers services in areas such as strategy and transformation, customer experience, digital, technology, and operations.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Capgemini_logo.svg/250px-Capgemini_logo.svg.png",
             careerPageLink = "https://www.capgemini.com/careers/",
-            companyDomain = "https://www.capgemini.com/",
+            companyDomain = "Information technology",
             companyProducts = "Services in areas such as consulting, technology, and engineering",
             companyImages = listOf("https://www.capgemini.com/wp-content/uploads/2022/03/Solution_Overview_Banner-1.jpg",
                 "https://www.capgemini.com/wp-content/uploads/2022/04/Excellence-in-Technology-1.jpg",
@@ -1418,7 +1418,7 @@ fun getCompany() : List<Company> {
             about = "Snap Inc. is a technology and social media company that operates the popular social networking platform, Snapchat. The company is focused on developing camera and augmented reality technology and is known for its creative and engaging features, such as filters, lenses, and stories. It is also expanding into other areas, such as gaming and e-commerce.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Snap_Inc._logo.svg/220px-Snap_Inc._logo.svg.png",
             careerPageLink = "https://www.snap.com/en-US/jobs/",
-            companyDomain = "https://www.snap.com/",
+            companyDomain = "Social media",
             companyProducts = "Snapchat, Bitmoji, Spectacles, Spotlight",
             companyImages = listOf("https://www.snap.com/global/social-card.png", "https://cdn.vox-cdn.com/thumbor/yLrzCDJZt0L3qJz8fWp1xVxN9Kg=/0x0:1918x1280/920x613/filters:focal(733x293:1049x609):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/69328657/Snapchat_Logo.0.png")
         ),
@@ -1433,7 +1433,7 @@ fun getCompany() : List<Company> {
             about = "Zomato is a food delivery and restaurant discovery platform headquartered in India. It operates in 24 countries and serves over 70 million users per month. Zomato allows users to search for restaurants, view menus, read and write reviews, and order food online for delivery.",
             companyLogo = "https://logo.clearbit.com/zomato.com",
             careerPageLink = "https://www.zomato.com/careers",
-            companyDomain = "https://www.zomato.com/",
+            companyDomain = "Online food ordering",
             companyProducts = "Food delivery, restaurant discovery, table reservation, and online ordering",
             companyImages = listOf("https://d4t7t8y8xqo0t.cloudfront.net/resized/720X2000/cms/20200219160626-4.jpg", "https://d4t7t8y8xqo0t.cloudfront.net/resized/720X2000/cms/20210218101219-banner%20(1).png")
         ),
@@ -1448,7 +1448,7 @@ fun getCompany() : List<Company> {
             about = "Swiggy is a food ordering and delivery company based in Bangalore, India. It was founded in 2014 by Sriharsha Majety, Nandan Reddy, and Rahul Jaimini. The company has a network of delivery personnel who pick up food from restaurants and deliver it to customers. Swiggy operates in more than 500 cities across India, and has expanded into new markets such as UAE, Kuwait, and Sri Lanka.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Swiggy_logo.svg/220px-Swiggy_logo.svg.png",
             careerPageLink = "https://careers.swiggy.com/",
-            companyDomain = "https://www.swiggy.com/",
+            companyDomain = "Online food ordering",
             companyProducts = "Food ordering and delivery services",
             companyImages = listOf("https://www.swiggy.com/static/images/swiggy-logo-1200x630.png", "https://www.swiggy.com/static/images/swiggy_story_landing_page.png", "https://www.swiggy.com/static/images/swiggy_expansion.png")
         ),
@@ -1461,8 +1461,8 @@ fun getCompany() : List<Company> {
             year = "2007",
             about = "Flipkart is an Indian e-commerce company headquartered in Bangalore, Karnataka, India. It was founded in 2007 by Sachin Bansal and Binny Bansal (not related). The company initially focused on book sales, before expanding into other product categories such as consumer electronics, fashion, and lifestyle products. In 2018, Flipkart was acquired by Walmart, an American multinational retail corporation. ",
             companyLogo = "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Flipkart_logo.svg/250px-Flipkart_logo.svg.png",
-            careerPageLink = "https://www.flipkartcareers.com/",
-            companyDomain = "https://www.flipkart.com/",
+            careerPageLink = "https://www.flipkartcareers.com/?#!/joblist",
+            companyDomain = "E-Commerce",
             companyProducts = "E-commerce platform, Consumer electronics, Fashion, Lifestyle products",
             companyImages = listOf("https://www.logosvgpng.com/wp-content/uploads/2018/08/flipkart-logo-vector.png", "https://www.republicworld.com/img/2021/06/09/flipkart-696x392.jpg")
         ),
@@ -1477,7 +1477,7 @@ fun getCompany() : List<Company> {
             about = "Myntra is an Indian fashion e-commerce company headquartered in Bengaluru, Karnataka, India. The company was founded in 2007 and was acquired by Flipkart in 2014. Myntra operates as a standalone fashion-focused business within the Flipkart Group.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Myntra_logo.png/220px-Myntra_logo.png",
             careerPageLink = "https://careers.myntra.com/",
-            companyDomain = "myntra.com",
+            companyDomain = "E-Commerce",
             companyProducts = "Fashion and lifestyle products such as clothing, footwear, accessories, and beauty products",
             companyImages = listOf("https://assets.entrepreneur.com/content/3x2/2000/1591720987-Myntra.jpeg",
                 "https://static.toiimg.com/photo/msid-79635689/79635689.jpg",
@@ -1497,7 +1497,7 @@ fun getCompany() : List<Company> {
             about = "Indeed is a global employment-related search engine for job listings. It operates in over 60 countries and in 28 languages. Job seekers can search for jobs and apply directly on Indeed's website or mobile app. Employers can also post job listings and search through resumes on the site. Indeed also offers resources for job seekers, such as career advice, salary comparisons, and company reviews.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Indeed_logo.svg/220px-Indeed_logo.svg.png",
             careerPageLink = "https://www.indeed.com/career",
-            companyDomain = "https://www.indeed.com/",
+            companyDomain = "Job search engine",
             companyProducts = "Job search engine, job posting, company reviews",
             companyImages = listOf("https://www.indeed.com/hire/img/indeed-logo.png")
         ),
@@ -1511,7 +1511,7 @@ fun getCompany() : List<Company> {
             about = "Uber is a multinational transportation network company that offers ride-sharing, ride-hailing, and other transportation services. The company operates in over 900 metropolitan areas worldwide and has revolutionized the way people move around cities.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Uber_logo_2018.svg/220px-Uber_logo_2018.svg.png",
             careerPageLink = "https://www.uber.com/us/en/careers/",
-            companyDomain = "uber.com",
+            companyDomain = "Bike taxi aggregator services",
             companyProducts = "Ride-sharing, ride-hailing, food delivery, package delivery, and more.",
             companyImages = listOf("https://www.uber-assets.com/image/upload/f_auto,q_auto:eco,c_fill,w_1012,h_569/v1584640829/assets/f6/0e6e2a-8e4d-4d0c-bb92-d4b1a37bda9d/original/Uber-Driving-Ocean-Bench.jpg", "https://www.uber-assets.com/image/upload/f_auto,q_auto:eco,c_fill,w_1012,h_569/v1584640829/assets/f3/405ec7-f955-4b19-ba97-8028e3257d39/original/Uber-Eats-Pair.jpg", "https://www.uber-assets.com/image/upload/f_auto,q_auto:eco,c_fill,w_1012,h_569/v1584640829/assets/d8/75fb20-f1cf-4c09-8d0f-836c7a9f2bbd/original/Uber-Freight-Truck-Dusk.jpg")
         ),
@@ -1526,7 +1526,7 @@ fun getCompany() : List<Company> {
             about = "Ola is an Indian ride-hailing company offering services including ride-hailing, ride-sharing, and taxi services. It is headquartered in Bangalore, India, and operates in over 250 cities across India, Australia, New Zealand, and the United Kingdom.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Ola_Cabs_logo.svg/250px-Ola_Cabs_logo.svg.png",
             careerPageLink = "https://www.olacabs.com/careers",
-            companyDomain = "www.olacabs.com",
+            companyDomain = "Bike taxi aggregator services",
             companyProducts = "Ola, Ola Bike, Ola Rentals, Ola Outstation, Ola Corporate",
             companyImages = listOf("https://www.olacabs.com/webstatic/img/ola-micro-mobility.svg", "https://www.olacabs.com/webstatic/img/ola-city-taxi.svg", "https://www.olacabs.com/webstatic/img/ola-outstation.svg", "https://www.olacabs.com/webstatic/img/ola-bike.svg")
         ),
@@ -1541,7 +1541,7 @@ fun getCompany() : List<Company> {
             about = "LinkedIn is a professional networking platform that allows members to create and manage their professional identities, connect with other professionals, and find new business opportunities. The platform is available in over 200 countries and is primarily used by professionals and businesses for recruiting and job searching.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/200px-LinkedIn_2021.svg.png",
             careerPageLink = "https://careers.linkedin.com/",
-            companyDomain = "linkedin.com",
+            companyDomain = "Internet",
             companyProducts = "Professional networking platform",
             companyImages = listOf("https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_960_720.jpg", "https://cdn.pixabay.com/photo/2016/02/19/11/30/social-media-1215477_960_720.jpg")
         ),
@@ -1556,7 +1556,7 @@ fun getCompany() : List<Company> {
             about = "GitHub is a web-based platform for version control and collaboration that lets developers work on code together and keep track of changes. It provides hosting for software development and a range of features that make it easy for teams to collaborate on projects of any size. The company offers both free and paid subscription plans for users.",
             companyLogo = "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
             careerPageLink = "https://github.com/about/careers",
-            companyDomain = "github.com",
+            companyDomain = "Collaborative version control",
             companyProducts = "GitHub",
             companyImages = listOf()
         ),
@@ -1570,7 +1570,7 @@ fun getCompany() : List<Company> {
             about = "Telegram is a cloud-based instant messaging app that focuses on speed, security, and privacy. The app allows users to send messages, photos, videos, and files of any type (doc, zip, mp3, etc.) to their contacts. Telegram also offers end-to-end encryption for all messages, ensuring that only the sender and intended recipient can read them. The app is available on multiple platforms, including iOS, Android, Windows, and macOS.",
             companyLogo = "https://telegram.org/img/t_logo.png",
             careerPageLink = "https://telegram.org/jobs",
-            companyDomain = "telegram.org",
+            companyDomain = "Social media",
             companyProducts = "Instant messaging app",
             companyImages = listOf("https://telegram.org/img/Simple_2_0.png", "https://telegram.org/img/Dynamic_2_0.png")
         ),
@@ -1585,7 +1585,7 @@ fun getCompany() : List<Company> {
             about = "SpaceX is a private American aerospace manufacturer and space transportation services company founded in 2002 by Elon Musk. The company's mission is to reduce the cost of space transportation and enable the colonization of Mars. SpaceX has developed and launched multiple spacecraft and rockets, including the Falcon 1, Falcon 9, Falcon Heavy, and Dragon spacecraft. In addition to launching satellites for commercial and government customers, SpaceX is also working on developing the Starship, a next-generation spacecraft capable of transporting up to 100 people to Mars and other destinations in the solar system.",
             companyLogo = "https://www.spacex.com/static/images/share.jpg",
             careerPageLink = "https://www.spacex.com/careers",
-            companyDomain = "spacex.com",
+            companyDomain = "Space and Rockets",
             companyProducts = "Spacecraft, Rockets",
             companyImages = listOf("https://www.spacex.com/static/images/homepage/crew-3/crew-3.jpg",
                 "https://www.spacex.com/static/images/homepage/starlink_october_21/normalized_crop.jpg",
@@ -1616,7 +1616,7 @@ fun getCompany() : List<Company> {
             about = "Unacademy is an Indian online education technology company offering online classes and test preparation services for students preparing for competitive exams. The company's goal is to make high-quality education accessible to everyone by providing live classes from educators across India, along with study materials and interactive quizzes.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Unacademy_Logo.png/220px-Unacademy_Logo.png",
             careerPageLink = "https://unacademy.com/careers",
-            companyDomain = "https://unacademy.com/",
+            companyDomain = "Etech",
             companyProducts = "Online classes and test preparation services",
             companyImages = listOf("https://www.getmyuni.com/college-news/wp-content/uploads/2022/01/Unacademy-Partners-with-Gulzar-to-Offer-Indian-Poetry-Course-in-Hindi-and-English-500x333.jpg",
                 "https://www.getmyuni.com/college-news/wp-content/uploads/2021/12/Unacademy-Signs-Triple-Jumper-Arvind-Kathare-for-Tokyo-2020-Olympic-Preparations-500x333.jpg",
@@ -1633,7 +1633,7 @@ fun getCompany() : List<Company> {
             year = "2015",
             about = "Rapido is an Indian bike taxi aggregator company. The company allows users to book a bike ride through their mobile application. The service is currently available in more than 100 cities across India. The company claims to have more than 2 million customers and 500,000 registered riders on its platform.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Rapido_company_logo.svg/220px-Rapido_company_logo.svg.png",
-            careerPageLink = "https://rapido.bike/careers/",
+            careerPageLink = "https://rapido.bike/careers.html",
             companyDomain = "https://www.rapido.bike/",
             companyProducts = "Bike taxi aggregator services",
             companyImages = listOf("https://www.rapido.bike/assets/images/bg/rapido_for_web.jpg",
@@ -1652,7 +1652,7 @@ fun getCompany() : List<Company> {
             about = "Jio Platforms Limited is an Indian digital services company that offers wireless, high-speed mobile internet services and a range of digital products and services. It is a subsidiary of Reliance Industries Limited. Jio was launched in 2016 and quickly became the largest mobile network operator in India.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Reliance_Jio_Logo.svg/150px-Reliance_Jio_Logo.svg.png",
             careerPageLink = "https://careers.jio.com/",
-            companyDomain = "https://www.jio.com/",
+            companyDomain = "Telecommunications",
             companyProducts = "Wireless mobile internet services, digital products and services",
             companyImages = listOf("https://images.financialexpress.com/2021/06/Jio-platforms.jpg", "https://bsmedia.business-standard.com/_media/bs/img/article/2017-04/24/full/1493037736-9565.jpg", "https://www.telegraphindia.com/1020121/images/21sport5.jpg")
         ),
@@ -1668,7 +1668,7 @@ fun getCompany() : List<Company> {
             about = "Bharti Airtel Limited is an Indian global telecommunications company that operates in 18 countries across South Asia and Africa. It provides 2G, 3G, and 4G wireless services, fixed-line broadband, and voice services, depending on the country of operation. Airtel is India's second-largest mobile network operator and the world's third-largest mobile network operator with over 471 million subscribers. The company also offers digital TV, Airtel Payments Bank, and other services.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Airtel_logo.svg/150px-Airtel_logo.svg.png",
             careerPageLink = "https://www.airtel.in/careers/",
-            companyDomain = "airtel.in",
+            companyDomain = "Telecommunications",
             companyProducts = "Wireless services, fixed-line broadband, digital TV, Airtel Payments Bank, voice services",
             companyImages = listOf("https://www.airtel.in/content/dam/airtelbrand/migration/airtel-logo.svg",
                 "https://www.airtel.in/content/dam/sma/airtel-in/legalandcompliances/Privacy-Policy/images/new-bg.jpg",
@@ -1690,7 +1690,7 @@ fun getCompany() : List<Company> {
             about = "VI is an Indian telecommunications company based in Mumbai, Maharashtra, India. It is a joint venture between Vodafone Group Plc and Aditya Birla Group, with Vodafone holding a 45.1% stake and Aditya Birla Group holding a 26% stake. VI provides mobile network services across India and is the third largest mobile network operator in India by subscriber base.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Vodafone_Idea_logo.svg/220px-Vodafone_Idea_logo.svg.png",
             careerPageLink = "https://careers.vodafoneidea.com/",
-            companyDomain = "vodafoneidea.com",
+            companyDomain = "Telecommunications",
             companyProducts = "Mobile network services, 4G, 3G, 2G, Voice, Data, SMS",
             companyImages = listOf("https://www.vodafoneidea.com/content/dam/vodafone-idea/web/home-page/banner4.jpg", "https://www.vodafoneidea.com/content/dam/vodafone-idea/web/home-page/banner1.jpg", "https://www.vodafoneidea.com/content/dam/vodafone-idea/web/home-page/banner3.jpg")
         ),
@@ -1704,8 +1704,8 @@ fun getCompany() : List<Company> {
             year = "December 2013",
             about = "OnePlus is a Chinese consumer electronics company that primarily manufactures smartphones, along with other products such as televisions and audio accessories. It was founded in December 2013 by Pete Lau and Carl Pei, and is headquartered in Shenzhen, Guangdong, China. OnePlus is known for offering flagship-level features at relatively lower prices compared to other smartphone brands.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/OP_LU_Reg_1L_RGB_red_copy-01.svg/220px-OP_LU_Reg_1L_RGB_red_copy-01.svg.png",
-            careerPageLink = "https://www.oneplus.com/careers",
-            companyDomain = "https://www.oneplus.com/",
+            careerPageLink = "https://oneplus.keka.com/careers/",
+            companyDomain = "Consumer electronics",
             companyProducts = "Smartphones, televisions, audio accessories",
             companyImages = listOf("https://www.oneplus.com/assets/seo/seo-logo-1200-675.png", "https://www.oneplus.com/assets/seo/seo-social.png")
         ),
@@ -1719,8 +1719,8 @@ fun getCompany() : List<Company> {
             year = "2009",
             about = "Vivo is a Chinese technology company that designs and develops smartphones, smartphone accessories, software, and online services. The company is known for producing high-quality and innovative smartphones with features such as high-quality cameras and long battery life.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Vivo_logo_2019.svg/200px-Vivo_logo_2019.svg.png",
-            careerPageLink = "https://www.vivo.com/in/about-vivo/careers",
-            companyDomain = "https://www.vivo.com/in",
+            careerPageLink = "https://www.vivo.com/in/about-vivo/career/jobs?from=1",
+            companyDomain = "Consumer electronics",
             companyProducts = "Smartphones, Smartphone Accessories",
             companyImages = listOf("https://www.vivo.com/in/common/images/header/vivo-logo.png", "https://cdn.vivo.com/static/www/vivo/common/images/index/picture-11.jpg")
 
@@ -1733,8 +1733,8 @@ fun getCompany() : List<Company> {
             year = "2010",
             about = "Xiaomi Corporation is a Chinese multinational electronics company founded in April 2010 and headquartered in Beijing. Xiaomi makes and invests in smartphones, mobile apps, laptops, home appliances, bags, shoes, consumer electronics, and many other products.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Xiaomi_logo_%282021-%29.svg/100px-Xiaomi_logo_%282021-%29.svg.png",
-            careerPageLink = "https://www.mi.com/global/careers/",
-            companyDomain = "https://www.mi.com/",
+            careerPageLink = "https://www.mi.com/global/careers/list",
+            companyDomain = "Consumer electronics",
             companyProducts = "Smartphones, laptops, home appliances, consumer electronics",
             companyImages = listOf()
         ),
@@ -1748,7 +1748,7 @@ fun getCompany() : List<Company> {
             about = "Byju's is an Indian educational technology (edtech) and online tutoring firm founded in 2011 by Byju Raveendran. The company's learning app, Byju's - The Learning App, was launched in 2015 and has since become India's largest edtech company. Byju's offers a wide range of educational programs for K-12 students, as well as competitive exam preparation for engineering, banking, and other professional fields. Byju's has raised over $3 billion in funding and is valued at over $16.5 billion as of 2022.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Byju%27s_logo.svg/220px-Byju%27s_logo.svg.png",
             careerPageLink = "https://byjus.com/careers/",
-            companyDomain = "byjus.com",
+            companyDomain = "Edtech",
             companyProducts = "Byju's - The Learning App, Byju's Classes, Byju's Online Tutoring, Byju's Test Prep",
             companyImages = listOf()
         ),
@@ -1763,7 +1763,7 @@ fun getCompany() : List<Company> {
             about = "Qualcomm is an American multinational semiconductor and telecommunications equipment company that designs and markets wireless telecommunications products and services. The company is a world leader in 3G, 4G, and next-generation wireless technologies, and it has developed numerous wireless technologies, including the popular CDMA and LTE standards used in smartphones. Qualcomm is headquartered in San Diego, California, and has operations in more than 40 countries around the world.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Qualcomm-Logo.svg/220px-Qualcomm-Logo.svg.png",
             careerPageLink = "https://www.qualcomm.com/company/careers",
-            companyDomain = "https://www.qualcomm.com/",
+            companyDomain = "Telecoms equipments Semiconductors",
             companyProducts = "Snapdragon processors, wireless modems, RF chips, Qualcomm Quick Charge, Qualcomm aptX audio, Qualcomm Atheros, Qualcomm Gobi, Qualcomm Snapdragon Wear, and more.",
             companyImages = listOf("https://www.qualcomm.com/themes/custom/qualcomm/images/logo.png", "https://www.qualcomm.com/sites/ember/files/styles/large/public/migration/2017/04/11/qualcomm-inc.jpg", "https://www.qualcomm.com/sites/ember/files/styles/featured/public/hero-banners/home-slider/5g-for-all-2250x1266-v2.jpg?itok=6m58unz7")
         ),
@@ -1844,7 +1844,7 @@ fun getCompany() : List<Company> {
             year = "1948",
             about = "Puma is a German multinational corporation that designs and manufactures athletic and casual footwear, apparel and accessories. The company is headquartered in Herzogenaurach, Bavaria, Germany.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Puma-logo-%28text%29.svg/220px-Puma-logo-%28text%29.svg.png",
-            careerPageLink = "https://about.puma.com/en/career",
+            careerPageLink = "https://about.puma.com/en/careers",
             companyDomain = "Textile, footwear",
             companyProducts = "Athletic and casual footwear, apparel and accessories",
             companyImages = listOf("https://www.puma.com/dw/image/v2/aagl_prd/on/demandware.static/-/Sites/default/dwa3c6da95/images/hi-res/381636_01/sv01/fnd/IND/fmt/png-alpha/w/900/h/900/plain_bg/ffffff", "https://www.puma.com/dw/image/v2/aagl_prd/on/demandware.static/-/Sites/default/dwc9f78410/images/hi-res/192776_01/sv01/fnd/IND/fmt/png-alpha/w/900/h/900/plain_bg/ffffff", "https://www.puma.com/dw/image/v2/aagl_prd/on/demandware.static/-/Sites/default/dw8a5b5bb5/images/hi-res/194586_01/sv01/fnd/IND/fmt/png-alpha/w/900/h/900/plain_bg/ffffff")
@@ -1933,7 +1933,7 @@ fun getCompany() : List<Company> {
             year = "1987",
             about = "KPMG is a multinational professional services network that provides audit, tax and advisory services. It is one of the largest professional services companies in the world and is considered one of the Big Four accounting firms, along with Deloitte, EY and PwC.",
             companyLogo = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/KPMG_logo.svg/800px-KPMG_logo.svg.png",
-            careerPageLink = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/KPMG_logo.svg/800px-KPMG_logo.svg.png",
+            careerPageLink = "https://kpmg.com/in/en/home/careers.html",
             companyDomain = "Professional services",
             companyProducts = "Audit, Tax, and Advisory Services",
             companyImages = listOf("")
@@ -1965,7 +1965,22 @@ fun getCompany() : List<Company> {
             companyDomain = "Professional services",
             companyProducts = "Audit, Assurance, Tax, Advisory, Transaction Advisory Services, Consulting",
             companyImages = listOf(" https://www.ey.com/en_gl/newsroom/news-releases/news-ey-named-one-of-worlds-most-attractive-employers-for-fourth-consecutive-year-by-universum")
-        )
+        ),
+
+        Company(
+                companyName = "Razorpay",
+                        nameOfCEO = "Harshil Mathur",
+                companyFounder = "Harshil Mathur and Shashank Kumar",
+                year = "2013",
+                about = "Razorpay is a leading online payment gateway company based in India. It provides a secure and easy-to-use payment solution to businesses of all sizes. Razorpay's products include Payment Gateway, Payment links, Subscription payment, Payment gateway for international payments, etc.",
+                companyLogo = "https://signdesk.com/images/razorpay_logo.png",
+                careerPageLink = "https://razorpay.com/jobs/jobs-all/?location=all&department=",
+                companyDomain = "Fintech",
+                companyProducts = "Payment Gateway, Payment links, Subscription payment, Payment gateway for international payments, etc.",
+                companyImages = listOf("https://www.razorpay.com/www/assets/images/home-bg.png",
+        "https://www.razorpay.com/www/assets/images/homepage-illustration.jpg",
+        "https://www.razorpay.com/www/assets/images/banners/merchant-loan-1.jpg")
+    )
     )
 
 

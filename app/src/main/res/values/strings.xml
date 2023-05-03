@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Jet Apply</string>
     <string name="title_activity_web">WebActivity</string>
+    <string name="web_client_id">846080198811-e7dofmmtvc7ubq29uiqijlahmufvp1kl.apps.googleusercontent.com</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+
 </resources>
+

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "846080198811",
+    "project_id": "jet-apply",
+    "storage_bucket": "jet-apply.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846080198811:android:d348d536b31c3775111e3e",
+        "android_client_info": {
+          "package_name": "com.example.jetapply"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846080198811-jjpi4v4ejak5jd7ss01jl4q6hioh7ben.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATzs5vTrjKHPVOwJr8PjIHE3tGd96Y0-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846080198811-jjpi4v4ejak5jd7ss01jl4q6hioh7ben.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
